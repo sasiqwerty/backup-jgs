@@ -1,0 +1,18 @@
+body{	background-color:purple;
+	background-image:url("flower1.jpg");
+	background-size:50px;
+	background-repeat:repeat-y;
+	background-position:center;
+}
+h1{	font-family:jokerman;
+	color:lightblue;
+	text-decoration:underline;
+	font-style:italic;
+	font-weight:bold;
+}
+h2{	font-family:fixedsys;
+	color:yellow;
+	text-decoration:underline;
+	font-style:italic;
+	font-weight:normal;
+}
